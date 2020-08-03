@@ -1,3 +1,5 @@
+package com.java.Singleton;
+
 public class Singleton {
 
    Singleton singleton = new Singleton();
