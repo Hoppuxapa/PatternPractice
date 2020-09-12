@@ -1,4 +1,4 @@
-package com.java.Command;
+package com.java.command;
 
 
 public class ExeClass {

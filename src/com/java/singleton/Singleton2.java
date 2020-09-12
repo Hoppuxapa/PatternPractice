@@ -1,8 +1,7 @@
-package com.java.Singleton;
+package com.java.singleton;
 
 public class Singleton2 {
     private static volatile Singleton2 instance;
-
     //Double Checked Locking and volatile
     public static Singleton2 getInstance() {
         Singleton2 localInstance = instance;

@@ -1,4 +1,4 @@
-package com.java.FactoryMethod;
+package com.java.factory_method;
 
 public class FactoryMethod {
 

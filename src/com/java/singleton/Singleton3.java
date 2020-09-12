@@ -1,4 +1,4 @@
-package com.java.Singleton;
+package com.java.singleton;
 
 public enum Singleton3 {
     INSTANCE;
